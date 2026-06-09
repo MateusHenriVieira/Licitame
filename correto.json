@@ -1,0 +1,1214 @@
+{
+  "contrato": {
+    "numero": "074/2025",
+    "processo_administrativo": "042/2025",
+    "pregao_eletronico": "002/2025",
+    "contratante": "MUNICÍPIO DE ÁGUAS BELAS",
+    "fornecedor": {
+      "razao_social": "CEMS PAPEIS E CIA LTDA",
+      "cnpj": "11.429.363/0001-63"
+    },
+    "valor_total_contrato": 242788.40,
+    "data_assinatura": "2025-07-01",
+    "vigencia_meses": 12
+  },
+  "itens": [
+    {
+      "item": 3,
+      "descricao": "ALFINETE Nº 28 NIQUELADO CAIXA C/50GR",
+      "unidade": "UD",
+      "marca": "ACC",
+      "valor_unitario": 3.20,
+      "quantidade": 50,
+      "valor_total": 160.00
+    },
+    {
+      "item": 4,
+      "descricao": "ALMOFADA PARA CARIMBO Nº 3 – ALMOFADA EM FELTRO PARA CARIMBO Nº 3 NA COR AZUL COM TAMPA.",
+      "unidade": "UD",
+      "marca": "RADEX",
+      "valor_unitario": 3.78,
+      "quantidade": 125,
+      "valor_total": 472.50
+    },
+    {
+      "item": 5,
+      "descricao": "APONTADOR DE LÁPIS GRAFITE METAL",
+      "unidade": "UD",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 0.81,
+      "quantidade": 125,
+      "valor_total": 101.25
+    },
+    {
+      "item": 7,
+      "descricao": "ÁLCOOL ISOPROPÍLICO 1LT",
+      "unidade": "UD",
+      "marca": "BELLO BELLO",
+      "valor_unitario": 27.95,
+      "quantidade": 25,
+      "valor_total": 698.75
+    },
+    {
+      "item": 10,
+      "descricao": "BASTÃO COLA QUENTE GROSSO - COLA, COMPOSIÇÃO SILICONE, APLICAÇÃO PISTOLA QUENTE, 11 MM",
+      "unidade": "PCT",
+      "marca": "NEXCEL",
+      "valor_unitario": 24.90,
+      "quantidade": 100,
+      "valor_total": 2490.00
+    },
+    {
+      "item": 11,
+      "descricao": "BATERIA 9V ALCALINA, NÃO RECARREGÁVEL. VOLTAGEM: 9V.",
+      "unidade": "UD",
+      "marca": "MAXPRINT",
+      "valor_unitario": 7.47,
+      "quantidade": 25,
+      "valor_total": 186.75
+    },
+    {
+      "item": 12,
+      "descricao": "BATERIA DE LÍTIO (LITHIUM) CR2032",
+      "unidade": "UD",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 3.89,
+      "quantidade": 25,
+      "valor_total": 97.25
+    },
+    {
+      "item": 13,
+      "descricao": "BALÃO BEXIGA PARA FESTA Nº 7 - PACOTE DE PREFERÊNCIA COM 50 UNIDADES",
+      "unidade": "PCT",
+      "marca": "SÃO ROQUE",
+      "valor_unitario": 5.04,
+      "quantidade": 125,
+      "valor_total": 630.00
+    },
+    {
+      "item": 18,
+      "descricao": "BORRACHA ARREDONDADA DE APAGAR - MATERIAL: BORRACHA, COR: BRANCA, TIPO: MACIA.",
+      "unidade": "UD",
+      "marca": "MERCUR",
+      "valor_unitario": 0.66,
+      "quantidade": 500,
+      "valor_total": 330.00
+    },
+    {
+      "item": 19,
+      "descricao": "BORRACHA PONTEIRA C/50UD - TIPO PONTEIRA, APLICAÇÃO: PARA LÁPIS.",
+      "unidade": "PCT",
+      "marca": "MERCUR",
+      "valor_unitario": 10.74,
+      "quantidade": 100,
+      "valor_total": 1074.00
+    },
+    {
+      "item": 21,
+      "descricao": "CADERNO 1/4 BROCHURA COSTURADO, 48 FOLHAS PAUTADAS, CAPA EM OFF-SET.",
+      "unidade": "UD",
+      "marca": "CREDEAL",
+      "valor_unitario": 6.09,
+      "quantidade": 1000,
+      "valor_total": 6090.00
+    },
+    {
+      "item": 22,
+      "descricao": "CADERNO BROCHURA, 96 FOLHAS - CAPA DURA, 1/4, FOLHAS PAUTADAS.",
+      "unidade": "UD",
+      "marca": "CREDEAL",
+      "valor_unitario": 6.39,
+      "quantidade": 1000,
+      "valor_total": 6390.00
+    },
+    {
+      "item": 23,
+      "descricao": "CADERNO ESPIRAL CAPA DURA 96 FOLHAS, 140 X 200 X 10MM.",
+      "unidade": "UD",
+      "marca": "CREDEAL",
+      "valor_unitario": 6.83,
+      "quantidade": 125,
+      "valor_total": 853.75
+    },
+    {
+      "item": 24,
+      "descricao": "CADERNO DESENHO ESPIRAL 96FLS - CAPA DURA, 200 MM X 275 MM.",
+      "unidade": "UD",
+      "marca": "CREDEAL",
+      "valor_unitario": 6.77,
+      "quantidade": 250,
+      "valor_total": 1692.50
+    },
+    {
+      "item": 25,
+      "descricao": "CADERNO UNIVERSITÁRIO – DE 10 MATÉRIAS, ESPIRAL, CAPA DURA, 200 FOLHAS.",
+      "unidade": "UD",
+      "marca": "CREDEAL",
+      "valor_unitario": 13.14,
+      "quantidade": 250,
+      "valor_total": 3285.00
+    },
+    {
+      "item": 26,
+      "descricao": "CAIXA ARQUIVO MORTO 250X201X355MM",
+      "unidade": "UD",
+      "marca": "POLYCART",
+      "valor_unitario": 6.64,
+      "quantidade": 500,
+      "valor_total": 3320.00
+    },
+    {
+      "item": 27,
+      "descricao": "CAIXA ORGANIZADORA POLIONDA C/ TAMPA E PEGADOR LATERAL TAM P (PRETA)",
+      "unidade": "UD",
+      "marca": "POLYCART",
+      "valor_unitario": 25.38,
+      "quantidade": 125,
+      "valor_total": 3172.50
+    },
+    {
+      "item": 28,
+      "descricao": "CALCULADORA PORTÁTIL PEQUENA - 8 DÍGITOS, TIPO: BOLSO.",
+      "unidade": "UN",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 9.44,
+      "quantidade": 250,
+      "valor_total": 2360.00
+    },
+    {
+      "item": 29,
+      "descricao": "CANETA MARCA TEXTO, AMARELA FLUORESCENTE. (CAIXA COM 12 UND)",
+      "unidade": "CX",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 13.69,
+      "quantidade": 250,
+      "valor_total": 3422.50
+    },
+    {
+      "item": 30,
+      "descricao": "CANETA DIVERSAS CORES - ESFEROGRÁFICA FINA 0,7MM, CX COM 50 UNIDADES.",
+      "unidade": "CX",
+      "marca": "COMPACTOR",
+      "valor_unitario": 30.69,
+      "quantidade": 250,
+      "valor_total": 7672.50
+    },
+    {
+      "item": 31,
+      "descricao": "CANETA PERMANENTE DE CD/DVD - PONTA 2MM, TINTA AZUL.",
+      "unidade": "UD",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 2.59,
+      "quantidade": 125,
+      "valor_total": 323.75
+    },
+    {
+      "item": 32,
+      "descricao": "CAPA PARA CD/DVD - ENVELOPES PARA CD/DVD 126 X 126.",
+      "unidade": "UD",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 2.31,
+      "quantidade": 100,
+      "valor_total": 231.00
+    },
+    {
+      "item": 33,
+      "descricao": "CLIP COLORIDO Nº 5 – CAIXA C/100",
+      "unidade": "CX",
+      "marca": "ACC",
+      "valor_unitario": 3.19,
+      "quantidade": 125,
+      "valor_total": 398.75
+    },
+    {
+      "item": 34,
+      "descricao": "CLIP Nº 3 – CAIXA C/50",
+      "unidade": "CX",
+      "marca": "ACC",
+      "valor_unitario": 1.73,
+      "quantidade": 125,
+      "valor_total": 216.25
+    },
+    {
+      "item": 35,
+      "descricao": "CLIP Nº 4 – CAIXA C/50",
+      "unidade": "CX",
+      "marca": "ACC",
+      "valor_unitario": 1.85,
+      "quantidade": 125,
+      "valor_total": 231.25
+    },
+    {
+      "item": 36,
+      "descricao": "CLIP Nº 6 – CAIXA C/50",
+      "unidade": "CX",
+      "marca": "ACC",
+      "valor_unitario": 2.89,
+      "quantidade": 125,
+      "valor_total": 361.25
+    },
+    {
+      "item": 37,
+      "descricao": "CLIP Nº 8 – CAIXA C/50",
+      "unidade": "CX",
+      "marca": "ACC",
+      "valor_unitario": 2.04,
+      "quantidade": 125,
+      "valor_total": 255.00
+    },
+    {
+      "item": 38,
+      "descricao": "COLA ADESIVA DE CONTATO - IDEAL PARA MADEIRA, ETC. GRAMATURA MINIMA 180 GR",
+      "unidade": "UD",
+      "marca": "BRASCOPLAST",
+      "valor_unitario": 16.05,
+      "quantidade": 75,
+      "valor_total": 1203.75
+    },
+    {
+      "item": 39,
+      "descricao": "COLA TIPO BASTÃO - SILICONE, 7,5 MM X 30 CM.",
+      "unidade": "UD",
+      "marca": "LEONORA",
+      "valor_unitario": 1.21,
+      "quantidade": 125,
+      "valor_total": 151.25
+    },
+    {
+      "item": 40,
+      "descricao": "COLA BRANCA 1KG - COLA BRANCA PVA DE 1 KG.",
+      "unidade": "UD",
+      "marca": "KOALA",
+      "valor_unitario": 17.45,
+      "quantidade": 100,
+      "valor_total": 1745.00
+    },
+    {
+      "item": 41,
+      "descricao": "COLA BRANCA 90G - USO ESCOLAR, BICO ECONÔMICO.",
+      "unidade": "UD",
+      "marca": "KOALA",
+      "valor_unitario": 2.69,
+      "quantidade": 500,
+      "valor_total": 1345.00
+    },
+    {
+      "item": 42,
+      "descricao": "CORRETIVO A BASE DE ÁGUA ATÓXICO C/18ML",
+      "unidade": "UD",
+      "marca": "KOALA",
+      "valor_unitario": 1.60,
+      "quantidade": 250,
+      "valor_total": 400.00
+    },
+    {
+      "item": 45,
+      "descricao": "COLA PARA ISOPOR SOLÚVEL EM ÁLCOOL 1KG",
+      "unidade": "UD",
+      "marca": "KOALA",
+      "valor_unitario": 15.40,
+      "quantidade": 10,
+      "valor_total": 154.00
+    },
+    {
+      "item": 46,
+      "descricao": "COLA PARA ISOPOR SOLÚVEL EM ÁLCOOL 90G",
+      "unidade": "UD",
+      "marca": "KOALA",
+      "valor_unitario": 4.26,
+      "quantidade": 50,
+      "valor_total": 213.00
+    },
+    {
+      "item": 47,
+      "descricao": "CORRETIVO TIPO CANETA",
+      "unidade": "UD",
+      "marca": "KOALA",
+      "valor_unitario": 2.99,
+      "quantidade": 125,
+      "valor_total": 373.75
+    },
+    {
+      "item": 50,
+      "descricao": "ENVELOPE SACO A2 KRAFT OURO - 260 X 360 MM.",
+      "unidade": "UD",
+      "marca": "TILIBRA",
+      "valor_unitario": 0.65,
+      "quantidade": 25,
+      "valor_total": 16.25
+    },
+    {
+      "item": 51,
+      "descricao": "ENVELOPE 310X410 COR MADEIRA C/ MÍN 100 UND",
+      "unidade": "CX",
+      "marca": "TILIBRA",
+      "valor_unitario": 44.99,
+      "quantidade": 25,
+      "valor_total": 1124.75
+    },
+    {
+      "item": 52,
+      "descricao": "ENVELOPE PEQUENO 110X170 C/ MIN. 100 UND",
+      "unidade": "CX",
+      "marca": "TILIBRA",
+      "valor_unitario": 22.00,
+      "quantidade": 25,
+      "valor_total": 550.00
+    },
+    {
+      "item": 53,
+      "descricao": "ESTILETE PLÁSTICO LARGO 18 MM RETRÁTIL",
+      "unidade": "UD",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 2.99,
+      "quantidade": 75,
+      "valor_total": 224.25
+    },
+    {
+      "item": 54,
+      "descricao": "ETIQUETA AUTOADESIVA PARA IMPRESSORA JATO DE TINTA - 26MM X 15MM (126/FOLHA)",
+      "unidade": "CX",
+      "marca": "COLACRIL",
+      "valor_unitario": 36.70,
+      "quantidade": 25,
+      "valor_total": 917.50
+    },
+    {
+      "item": 55,
+      "descricao": "ETIQUETA AUTOADESIVA PARA IMPRESSORA JATO DE TINTA C/ 22UD - 25,4 X 66,7MM",
+      "unidade": "CX",
+      "marca": "COLACRIL",
+      "valor_unitario": 20.00,
+      "quantidade": 25,
+      "valor_total": 500.00
+    },
+    {
+      "item": 56,
+      "descricao": "FOLHA DE EVA LISA DIVERSAS CORES 600X400X2MM",
+      "unidade": "UD",
+      "marca": "IBEL",
+      "valor_unitario": 2.29,
+      "quantidade": 1000,
+      "valor_total": 2290.00
+    },
+    {
+      "item": 57,
+      "descricao": "EXTRATOR DE GRAMPO CROMADO 14CM TIPO ESPÁTULA",
+      "unidade": "UD",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 3.84,
+      "quantidade": 125,
+      "valor_total": 480.00
+    },
+    {
+      "item": 58,
+      "descricao": "FITA ADESIVA TRANSPARENTE 45MM X 45M",
+      "unidade": "UD",
+      "marca": "EUROCEL",
+      "valor_unitario": 4.44,
+      "quantidade": 500,
+      "valor_total": 2220.00
+    },
+    {
+      "item": 60,
+      "descricao": "FITA CREPE LARGA MIN 50X5MM - 5 CM X 50 M",
+      "unidade": "UD",
+      "marca": "EUROCEL",
+      "valor_unitario": 7.83,
+      "quantidade": 25,
+      "valor_total": 195.75
+    },
+    {
+      "item": 61,
+      "descricao": "FITA DUPLA FACE 19MM C/30MM - 19 MM X 30 M",
+      "unidade": "UD",
+      "marca": "EUROCEL",
+      "valor_unitario": 8.37,
+      "quantidade": 50,
+      "valor_total": 418.50
+    },
+    {
+      "item": 62,
+      "descricao": "FITA DUREX ADESIVA 19X50MM TRANSPARENTE",
+      "unidade": "UD",
+      "marca": "EUROCEL",
+      "valor_unitario": 2.10,
+      "quantidade": 50,
+      "valor_total": 105.00
+    },
+    {
+      "item": 63,
+      "descricao": "FITA DUREX COLORIDA 12X10MM",
+      "unidade": "UD",
+      "marca": "EUROCEL",
+      "valor_unitario": 0.58,
+      "quantidade": 125,
+      "valor_total": 72.50
+    },
+    {
+      "item": 72,
+      "descricao": "GRAMPEADOR DE MESA PEQUENO - GRAMPO 26/6, ATÉ 20 FOLHAS",
+      "unidade": "UD",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 6.97,
+      "quantidade": 50,
+      "valor_total": 348.50
+    },
+    {
+      "item": 73,
+      "descricao": "GRAMPEADOR METÁLICO DE MESA MÉDIO - PARA 25 FOLHAS",
+      "unidade": "UD",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 21.89,
+      "quantidade": 25,
+      "valor_total": 547.25
+    },
+    {
+      "item": 74,
+      "descricao": "GRAMPEADOR METÁLICO PROFISSIONAL P/ 100FLS",
+      "unidade": "UD",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 49.10,
+      "quantidade": 20,
+      "valor_total": 982.00
+    },
+    {
+      "item": 75,
+      "descricao": "GRAMPOS 26/6 C/5000UD",
+      "unidade": "CX",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 4.14,
+      "quantidade": 500,
+      "valor_total": 2070.00
+    },
+    {
+      "item": 80,
+      "descricao": "LÁPIS DE ESCREVER N: 2 - GRAFITE Nº 2",
+      "unidade": "CX",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 23.34,
+      "quantidade": 125,
+      "valor_total": 2917.50
+    },
+    {
+      "item": 81,
+      "descricao": "LIGA ELÁSTICA C/100UD - ELÁSTICO, MATERIAL LÁTEX, Nº 18",
+      "unidade": "PCT",
+      "marca": "MERCUR",
+      "valor_unitario": 9.50,
+      "quantidade": 25,
+      "valor_total": 237.50
+    },
+    {
+      "item": 82,
+      "descricao": "LIVRO DE ATA 200 FLS - CAPA DURA",
+      "unidade": "UD",
+      "marca": "TILIBRA",
+      "valor_unitario": 17.96,
+      "quantidade": 75,
+      "valor_total": 1347.00
+    },
+    {
+      "item": 83,
+      "descricao": "LIVRO DE ATA 100FLS - CAPA DURA",
+      "unidade": "UD",
+      "marca": "TILIBRA",
+      "valor_unitario": 10.80,
+      "quantidade": 75,
+      "valor_total": 810.00
+    },
+    {
+      "item": 84,
+      "descricao": "LIVRO DE ATA 50 FLS - CAPA DURA",
+      "unidade": "UD",
+      "marca": "TILIBRA",
+      "valor_unitario": 8.20,
+      "quantidade": 50,
+      "valor_total": 410.00
+    },
+    {
+      "item": 85,
+      "descricao": "LIVRO DE PONTO - SÉRIES INICIAIS",
+      "unidade": "UD",
+      "marca": "TILIBRA",
+      "valor_unitario": 29.65,
+      "quantidade": 50,
+      "valor_total": 1482.50
+    },
+    {
+      "item": 86,
+      "descricao": "LIVRO DE PONTO ADM CAPA DURA 200FLS",
+      "unidade": "UD",
+      "marca": "TILIBRA",
+      "valor_unitario": 24.85,
+      "quantidade": 50,
+      "valor_total": 1242.50
+    },
+    {
+      "item": 87,
+      "descricao": "LIVRO DE PONTO 1 ASSINATURA - 100 FOLHAS",
+      "unidade": "UD",
+      "marca": "TILIBRA",
+      "valor_unitario": 36.40,
+      "quantidade": 25,
+      "valor_total": 910.00
+    },
+    {
+      "item": 88,
+      "descricao": "LIVRO DE PONTO 1/4 C/160FLS 225X160X20MM",
+      "unidade": "UD",
+      "marca": "TILIBRA",
+      "valor_unitario": 18.45,
+      "quantidade": 25,
+      "valor_total": 461.25
+    },
+    {
+      "item": 89,
+      "descricao": "LIVRO DE PROTOCOLO - 100 FOLHAS, CAPA DURA",
+      "unidade": "UD",
+      "marca": "TILIBRA",
+      "valor_unitario": 10.75,
+      "quantidade": 50,
+      "valor_total": 537.50
+    },
+    {
+      "item": 90,
+      "descricao": "MARCADOR DE QUADRO BRANCO - CORES DIVERSAS",
+      "unidade": "UD",
+      "marca": "LEONORA",
+      "valor_unitario": 4.39,
+      "quantidade": 250,
+      "valor_total": 1097.50
+    },
+    {
+      "item": 92,
+      "descricao": "MINI GRAMPEADOR - CAPACIDADE MINIMA 12 FOLHAS",
+      "unidade": "UD",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 6.67,
+      "quantidade": 50,
+      "valor_total": 333.50
+    },
+    {
+      "item": 93,
+      "descricao": "CORDÃO DE NYLON PARA VARAL - 10 MTS",
+      "unidade": "UD",
+      "marca": "ROMA",
+      "valor_unitario": 3.44,
+      "quantidade": 25,
+      "valor_total": 86.00
+    },
+    {
+      "item": 94,
+      "descricao": "PASTA CLASSIFICADORA - PAPELÃO PLASTIFICADO, GRAMPO TRILHO",
+      "unidade": "UD",
+      "marca": "ACP",
+      "valor_unitario": 3.49,
+      "quantidade": 500,
+      "valor_total": 1745.00
+    },
+    {
+      "item": 95,
+      "descricao": "PAPEL JORNAL RESMA - PARDO, LARGURA 66 CM",
+      "unidade": "UD",
+      "marca": "REPORT",
+      "valor_unitario": 32.55,
+      "quantidade": 25,
+      "valor_total": 813.75
+    },
+    {
+      "item": 96,
+      "descricao": "PAPEL CAMURÇA DIVERSAS CORES",
+      "unidade": "UD",
+      "marca": "VMP",
+      "valor_unitario": 1.37,
+      "quantidade": 250,
+      "valor_total": 342.50
+    },
+    {
+      "item": 97,
+      "descricao": "PAPEL CARTÃO C/50FLS - A4, BRANCO, 180G/M",
+      "unidade": "PCT",
+      "marca": "VMP",
+      "valor_unitario": 13.64,
+      "quantidade": 250,
+      "valor_total": 3410.00
+    },
+    {
+      "item": 98,
+      "descricao": "PAPEL CARTOLINA DIVERSAS CORES",
+      "unidade": "UD",
+      "marca": "VMP",
+      "valor_unitario": 1.06,
+      "quantidade": 500,
+      "valor_total": 530.00
+    },
+    {
+      "item": 99,
+      "descricao": "PAPEL SEDA - CORES VARIADAS",
+      "unidade": "UD",
+      "marca": "VMP",
+      "valor_unitario": 0.53,
+      "quantidade": 250,
+      "valor_total": 132.50
+    },
+    {
+      "item": 100,
+      "descricao": "PAPEL CELOFONE - VERMELHA",
+      "unidade": "UD",
+      "marca": "VMP",
+      "valor_unitario": 1.50,
+      "quantidade": 250,
+      "valor_total": 375.00
+    },
+    {
+      "item": 101,
+      "descricao": "PAPEL COLOR SETE - CORES VARIADAS",
+      "unidade": "UD",
+      "marca": "VMP",
+      "valor_unitario": 1.29,
+      "quantidade": 500,
+      "valor_total": 645.00
+    },
+    {
+      "item": 102,
+      "descricao": "PAPEL CONTATO TRANSPARENTE - 45 CM X 25 M",
+      "unidade": "UD",
+      "marca": "COLACRIL",
+      "valor_unitario": 55.90,
+      "quantidade": 250,
+      "valor_total": 13975.00
+    },
+    {
+      "item": 103,
+      "descricao": "PAPEL CREPOM CORES VARIADAS",
+      "unidade": "UD",
+      "marca": "VMP",
+      "valor_unitario": 1.47,
+      "quantidade": 250,
+      "valor_total": 367.50
+    },
+    {
+      "item": 104,
+      "descricao": "PAPEL CRIATIVO 45FLS A4 - COLORIDO, 85G/M²",
+      "unidade": "PCT",
+      "marca": "VMP",
+      "valor_unitario": 9.44,
+      "quantidade": 250,
+      "valor_total": 2361.00
+    },
+    {
+      "item": 105,
+      "descricao": "PAPEL DUPLA FACE - CARBONO, PRETA",
+      "unidade": "UD",
+      "marca": "VMP",
+      "valor_unitario": 3.89,
+      "quantidade": 50,
+      "valor_total": 194.50
+    },
+    {
+      "item": 106,
+      "descricao": "PAPEL GUACHE - 50X60CM, CORES DIVERSAS",
+      "unidade": "UD",
+      "marca": "VMP",
+      "valor_unitario": 1.54,
+      "quantidade": 250,
+      "valor_total": 385.00
+    },
+    {
+      "item": 107,
+      "descricao": "PAPEL LAMINADO - CORES VARIADAS",
+      "unidade": "UD",
+      "marca": "VMP",
+      "valor_unitario": 1.69,
+      "quantidade": 250,
+      "valor_total": 422.50
+    },
+    {
+      "item": 108,
+      "descricao": "PAPEL LEMBRETE 600FLS - TIPO CUBO, SEM PAUTA",
+      "unidade": "PCT",
+      "marca": "VMP",
+      "valor_unitario": 30.67,
+      "quantidade": 50,
+      "valor_total": 1533.50
+    },
+    {
+      "item": 109,
+      "descricao": "PAPEL MADEIRA - A4, 2MM, PCT.C/100FLS",
+      "unidade": "UD",
+      "marca": "VMP",
+      "valor_unitario": 58.40,
+      "quantidade": 250,
+      "valor_total": 14600.00
+    },
+    {
+      "item": 110,
+      "descricao": "PAPEL CELOFANE - NACARADO 70X100.",
+      "unidade": "UD",
+      "marca": "VMP",
+      "valor_unitario": 1.63,
+      "quantidade": 125,
+      "valor_total": 204.25
+    },
+    {
+      "item": 111,
+      "descricao": "PAPEL SULFITE A2 - 75G/M, 500 FOLHAS",
+      "unidade": "CX",
+      "marca": "REPORT",
+      "valor_unitario": 31.39,
+      "quantidade": 25,
+      "valor_total": 784.75
+    },
+    {
+      "item": 112,
+      "descricao": "PAPEL SULFITE A3 - 75G/M2, 500 FOLHAS",
+      "unidade": "CX",
+      "marca": "REPORT",
+      "valor_unitario": 44.40,
+      "quantidade": 25,
+      "valor_total": 1110.00
+    },
+    {
+      "item": 113,
+      "descricao": "PAPEL SULFITE A4 - CAIXA COM 10 RESMAS C/500 FOLHAS",
+      "unidade": "CX",
+      "marca": "REPORT",
+      "valor_unitario": 194.99,
+      "quantidade": 250,
+      "valor_total": 48747.50
+    },
+    {
+      "item": 114,
+      "descricao": "PASTA DE PLÁSTICO COM ABAS E ELÁSTICO",
+      "unidade": "UD",
+      "marca": "ACP",
+      "valor_unitario": 3.69,
+      "quantidade": 750,
+      "valor_total": 2767.50
+    },
+    {
+      "item": 115,
+      "descricao": "PASTA CLASSIFICADORA - PLÁSTICO TRANSPARENTE, 2 GRAMPO TRILHO",
+      "unidade": "UD",
+      "marca": "ACP",
+      "valor_unitario": 2.05,
+      "quantidade": 250,
+      "valor_total": 512.50
+    },
+    {
+      "item": 116,
+      "descricao": "PASTA AZ 35CMX25CMX8CM - LOMBADA LARGA, OFÍCIO",
+      "unidade": "UD",
+      "marca": "FRAMA",
+      "valor_unitario": 11.79,
+      "quantidade": 500,
+      "valor_total": 5895.00
+    },
+    {
+      "item": 117,
+      "descricao": "PASTA AZ FINA",
+      "unidade": "UD",
+      "marca": "FRAMA",
+      "valor_unitario": 9.14,
+      "quantidade": 250,
+      "valor_total": 2285.00
+    },
+    {
+      "item": 118,
+      "descricao": "PASTA DE PAPELÃO PLASTIFICADO COM ABAS E ELÁSTICOS TAMANHO A4",
+      "unidade": "UD",
+      "marca": "FRAMA",
+      "valor_unitario": 1.40,
+      "quantidade": 500,
+      "valor_total": 700.00
+    },
+    {
+      "item": 119,
+      "descricao": "PASTA POLIONDA 2CM - DIVERSAS CORES",
+      "unidade": "UD",
+      "marca": "POLYCART",
+      "valor_unitario": 3.53,
+      "quantidade": 250,
+      "valor_total": 882.50
+    },
+    {
+      "item": 120,
+      "descricao": "PASTA POLIONDA 3,5 CM - CORES VARIADAS",
+      "unidade": "UD",
+      "marca": "POLYCART",
+      "valor_unitario": 3.14,
+      "quantidade": 250,
+      "valor_total": 785.00
+    },
+    {
+      "item": 121,
+      "descricao": "PASTA POLIONDA 4CM - DIVERSAS CORES",
+      "unidade": "UD",
+      "marca": "POLYCART",
+      "valor_unitario": 3.26,
+      "quantidade": 250,
+      "valor_total": 815.00
+    },
+    {
+      "item": 122,
+      "descricao": "PASTA POLIONDA 5,5CM - DIVERSAS CORES",
+      "unidade": "UD",
+      "marca": "POLYCART",
+      "valor_unitario": 4.08,
+      "quantidade": 250,
+      "valor_total": 1020.00
+    },
+    {
+      "item": 123,
+      "descricao": "PASTA POLIONDA ARQUIVO MORTO 355X133X252MM",
+      "unidade": "UD",
+      "marca": "POLYCART",
+      "valor_unitario": 4.99,
+      "quantidade": 250,
+      "valor_total": 1247.50
+    },
+    {
+      "item": 124,
+      "descricao": "PASTA SUSPENSA MARMORIZADA - 240 MM X 360 MM",
+      "unidade": "UD",
+      "marca": "FRAMA",
+      "valor_unitario": 2.89,
+      "quantidade": 250,
+      "valor_total": 722.50
+    },
+    {
+      "item": 125,
+      "descricao": "PASTA CANALETA PARA PROJETOS - A4, CRISTAL",
+      "unidade": "UD",
+      "marca": "ACP",
+      "valor_unitario": 1.98,
+      "quantidade": 125,
+      "valor_total": 247.50
+    },
+    {
+      "item": 126,
+      "descricao": "PERCEVEJO C/ 25UD - LATONADO",
+      "unidade": "CX",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 3.26,
+      "quantidade": 75,
+      "valor_total": 244.50
+    },
+    {
+      "item": 127,
+      "descricao": "PERFURADOR DE PAPEL MÉDIO 12FLS - 2 FUROS",
+      "unidade": "UD",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 12.58,
+      "quantidade": 125,
+      "valor_total": 1572.50
+    },
+    {
+      "item": 128,
+      "descricao": "PERFURADOR DE PAPEL PARA 100FLS - 2 VAZADORES",
+      "unidade": "UD",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 126.90,
+      "quantidade": 25,
+      "valor_total": 3172.50
+    },
+    {
+      "item": 129,
+      "descricao": "PILHA ALCALINA AA - COM 2 UNIDADES",
+      "unidade": "UD",
+      "marca": "MAXPRINT",
+      "valor_unitario": 4.90,
+      "quantidade": 75,
+      "valor_total": 367.50
+    },
+    {
+      "item": 130,
+      "descricao": "PILHA ALCALINA AAA - PALITO",
+      "unidade": "UD",
+      "marca": "MAXPRINT",
+      "valor_unitario": 7.96,
+      "quantidade": 75,
+      "valor_total": 597.00
+    },
+    {
+      "item": 134,
+      "descricao": "PINCEL PARA QUADRO BRANCO - MAGNÉTICO, AZUL",
+      "unidade": "UD",
+      "marca": "COMPACTOR",
+      "valor_unitario": 3.99,
+      "quantidade": 500,
+      "valor_total": 1995.00
+    },
+    {
+      "item": 135,
+      "descricao": "PISTOLA DE COLA QUENTE GRANDE - BIVOLT, 15W",
+      "unidade": "UD",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 23.75,
+      "quantidade": 75,
+      "valor_total": 1781.25
+    },
+    {
+      "item": 136,
+      "descricao": "PISTOLA DE COLA QUENTE PEQUENA - BIVOLT, 40W",
+      "unidade": "UD",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 19.26,
+      "quantidade": 75,
+      "valor_total": 1444.50
+    },
+    {
+      "item": 137,
+      "descricao": "PORTA LÁPIS, CLIP E LEMBRETES - ACRÍLICO",
+      "unidade": "UD",
+      "marca": "ACRIMET",
+      "valor_unitario": 12.20,
+      "quantidade": 100,
+      "valor_total": 1220.00
+    },
+    {
+      "item": 138,
+      "descricao": "PRANCHETA PLÁSTICA COM PRENDEDOR - OFÍCIO",
+      "unidade": "UD",
+      "marca": "TILIBRA",
+      "valor_unitario": 14.25,
+      "quantidade": 150,
+      "valor_total": 2137.50
+    },
+    {
+      "item": 139,
+      "descricao": "PLÁSTICO ADESIVO TRANSPARENTE - 450x25mm",
+      "unidade": "UD",
+      "marca": "COLACRIL",
+      "valor_unitario": 53.50,
+      "quantidade": 50,
+      "valor_total": 2675.00
+    },
+    {
+      "item": 140,
+      "descricao": "QUADRO ESCOLAR BRANCO - 2,50 X 1,20 M",
+      "unidade": "UD",
+      "marca": "MADE MASTER",
+      "valor_unitario": 260.00,
+      "quantidade": 50,
+      "valor_total": 13000.00
+    },
+    {
+      "item": 141,
+      "descricao": "QUADRO DE AVISOS - CORTIÇA, 120 X 70 CM",
+      "unidade": "UD",
+      "marca": "MADE MASTER",
+      "valor_unitario": 92.80,
+      "quantidade": 25,
+      "valor_total": 2320.00
+    },
+    {
+      "item": 145,
+      "descricao": "RÉGUA PLÁSTICA 30CM",
+      "unidade": "UD",
+      "marca": "WALEU",
+      "valor_unitario": 1.89,
+      "quantidade": 250,
+      "valor_total": 472.50
+    },
+    {
+      "item": 146,
+      "descricao": "RÉGUA PLÁSTICA 50CM",
+      "unidade": "UD",
+      "marca": "WALEU",
+      "valor_unitario": 2.70,
+      "quantidade": 125,
+      "valor_total": 337.50
+    },
+    {
+      "item": 147,
+      "descricao": "ROLO DE BARBANTE 100MT - 8 FIOS",
+      "unidade": "UD",
+      "marca": "ROMA",
+      "valor_unitario": 13.20,
+      "quantidade": 25,
+      "valor_total": 330.00
+    },
+    {
+      "item": 148,
+      "descricao": "TESOURA GRANDE - 21CM",
+      "unidade": "UD",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 6.58,
+      "quantidade": 125,
+      "valor_total": 822.50
+    },
+    {
+      "item": 149,
+      "descricao": "TESOURA MÉDIA - 16 CM",
+      "unidade": "UD",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 5.77,
+      "quantidade": 50,
+      "valor_total": 288.50
+    },
+    {
+      "item": 150,
+      "descricao": "TESOURA PEQUENA - 11 CM, SEM PONTA",
+      "unidade": "UD",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 2.89,
+      "quantidade": 250,
+      "valor_total": 722.50
+    },
+    {
+      "item": 151,
+      "descricao": "TESOURA ESCALOPE PROFISSIONAL",
+      "unidade": "UD",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 31.45,
+      "quantidade": 50,
+      "valor_total": 1572.50
+    },
+    {
+      "item": 152,
+      "descricao": "TINTA GUACHE - 6 FRASCOS DE 30 ML",
+      "unidade": "CX",
+      "marca": "KOALA",
+      "valor_unitario": 5.69,
+      "quantidade": 100,
+      "valor_total": 569.00
+    },
+    {
+      "item": 153,
+      "descricao": "TINTA PARA CARIMBO - 42ML",
+      "unidade": "UD",
+      "marca": "RADEX",
+      "valor_unitario": 5.15,
+      "quantidade": 50,
+      "valor_total": 257.50
+    },
+    {
+      "item": 155,
+      "descricao": "UMEDECEDOR DE DEDOS (MOLHA DEDOS)",
+      "unidade": "UD",
+      "marca": "RADEX",
+      "valor_unitario": 2.28,
+      "quantidade": 25,
+      "valor_total": 57.00
+    },
+    {
+      "item": 156,
+      "descricao": "PAPEL CARBONO PRETO - 100 FLS",
+      "unidade": "PC",
+      "marca": "VMP",
+      "valor_unitario": 7.95,
+      "quantidade": 100,
+      "valor_total": 795.00
+    },
+    {
+      "item": 157,
+      "descricao": "BLOCO DE RECADO EM PAPEL - POST-IT, 4 UNIDADES",
+      "unidade": "UD",
+      "marca": "RADEX",
+      "valor_unitario": 6.50,
+      "quantidade": 125,
+      "valor_total": 812.50
+    },
+    {
+      "item": 158,
+      "descricao": "PAPEL FOTOGRÁFICO - A4, BRILHANTE",
+      "unidade": "PC",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 13.18,
+      "quantidade": 125,
+      "valor_total": 1647.50
+    },
+    {
+      "item": 159,
+      "descricao": "PAPEL ADESIVO FOTOGRÁFICO - A4, BRILHANTE",
+      "unidade": "PC",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 13.18,
+      "quantidade": 125,
+      "valor_total": 1647.50
+    },
+    {
+      "item": 160,
+      "descricao": "PASTA CATÁLOGO - COM 100 PLÁSTICOS",
+      "unidade": "UD",
+      "marca": "ACP",
+      "valor_unitario": 17.50,
+      "quantidade": 50,
+      "valor_total": 875.00
+    },
+    {
+      "item": 161,
+      "descricao": "PASTA SANFONADA - 12 DIVISÕES",
+      "unidade": "UD",
+      "marca": "POLYCART",
+      "valor_unitario": 14.65,
+      "quantidade": 100,
+      "valor_total": 1465.00
+    },
+    {
+      "item": 162,
+      "descricao": "FITA ZEBRADA - SINALIZAÇÃO",
+      "unidade": "UD",
+      "marca": "EUROCEL",
+      "valor_unitario": 9.82,
+      "quantidade": 500,
+      "valor_total": 4910.00
+    },
+    {
+      "item": 163,
+      "descricao": "LÁPIS DE COR JUMBO - 12 CORES",
+      "unidade": "CX",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 10.33,
+      "quantidade": 50,
+      "valor_total": 516.65
+    },
+    {
+      "item": 164,
+      "descricao": "APONTADOR JUMBO - COM DEPÓSITO",
+      "unidade": "CX",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 1.83,
+      "quantidade": 50,
+      "valor_total": 91.50
+    },
+    {
+      "item": 165,
+      "descricao": "CAIXA PARA CORRESPONDÊNCIA - TRÊS BANDEJAS",
+      "unidade": "UD",
+      "marca": "ACRIMET",
+      "valor_unitario": 40.10,
+      "quantidade": 50,
+      "valor_total": 2005.00
+    },
+    {
+      "item": 166,
+      "descricao": "PROTETOR DE CRACHÁ - CORDÃO AZUL ROYAL",
+      "unidade": "UD",
+      "marca": "ACRIMET",
+      "valor_unitario": 2.55,
+      "quantidade": 150,
+      "valor_total": 382.50
+    },
+    {
+      "item": 168,
+      "descricao": "ENVELOPE PARA CONVITE - AZUL MARINHO",
+      "unidade": "UD",
+      "marca": "TILIBRA",
+      "valor_unitario": 1.34,
+      "quantidade": 1000,
+      "valor_total": 1340.00
+    },
+    {
+      "item": 169,
+      "descricao": "COLA DE SILICONE LÍQUIDA 100ML",
+      "unidade": "UD",
+      "marca": "MASTERPRINT",
+      "valor_unitario": 9.96,
+      "quantidade": 75,
+      "valor_total": 747.00
+    }
+  ]
+}

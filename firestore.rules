@@ -1,0 +1,25 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Allow users to read their own user document
+    match /users/{userId} {
+      allow read: if request.auth != null && (request.auth.uid == userId || request.auth.token.email == resource.data.email);
+      allow write: if request.auth != null && request.auth.uid == userId;
+    }
+
+    // Allow authenticated users to query users collection to find by email
+    match /users/{document=**} {
+      allow read: if request.auth != null;
+    }
+
+    // Admin can do everything
+    match /{document=**} {
+      allow read, write: if request.auth != null && request.auth.token.email == "admin@t.com";
+    }
+
+    // Default deny all
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

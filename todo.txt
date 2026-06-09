@@ -1,0 +1,1 @@
+adicionar contagem de quantos dias vencidos na tela inicial que no momento so mostra quantos dias faltam para se vencer
